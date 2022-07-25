@@ -1,0 +1,63 @@
+------IMT2021066 Yukta Arvind Rajapur--------
+
+
+This file contains sample i/o for each menu program. Input and output is displayed as such when code is run on terminal.
+
+-----------------------------
+choice: 1
+
+-->Input
+number 1: 23
+number 2: 15
+-->output
+38
+------------------------------
+choice: 2
+
+-->input
+number 1: 99
+number 2: 45
+-->output
+54
+------------------------------
+choice: 3
+
+-->input
+Equal side length: 6
+Other side: 4
+-->output
+Perimeter = 16
+------------------------------
+choice: 4
+
+-->input
+Enter elements in a single line:
+Matrix A[]
+
+1 2 3 4 
+Matrix B[]
+
+5 6 7 8 
+-->output
+[ -4 , -4 ]
+[ -4 , -4 ]
+
+------------------------------
+choice: 5
+
+-->input
+Number 1: 6
+Number 2: 7
+-->output
+042
+------------------------------
+choice: 6
+
+-->input
+side a: 1   
+side b: 3
+side c: 2
+-->output
+TSA = 22 sq units
+------------------------------
+**END**
